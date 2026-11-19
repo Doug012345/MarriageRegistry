@@ -1,0 +1,15 @@
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\bin\Debug\net10.0\MarriageRegistry.Application.deps.json
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\bin\Debug\net10.0\MarriageRegistry.Application.dll
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\bin\Debug\net10.0\MarriageRegistry.Application.pdb
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\bin\Debug\net10.0\MarriageRegistry.Domain.dll
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\bin\Debug\net10.0\MarriageRegistry.Domain.pdb
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\obj\Debug\net10.0\MarriageRegistry.Application.csproj.AssemblyReference.cache
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\obj\Debug\net10.0\MarriageRegistry.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\obj\Debug\net10.0\MarriageRegistry.Application.AssemblyInfoInputs.cache
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\obj\Debug\net10.0\MarriageRegistry.Application.AssemblyInfo.cs
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\obj\Debug\net10.0\MarriageRegistry.Application.csproj.CoreCompileInputs.cache
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\obj\Debug\net10.0\Marriage.F43E9239.Up2Date
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\obj\Debug\net10.0\MarriageRegistry.Application.dll
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\obj\Debug\net10.0\refint\MarriageRegistry.Application.dll
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\obj\Debug\net10.0\MarriageRegistry.Application.pdb
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Application\obj\Debug\net10.0\ref\MarriageRegistry.Application.dll

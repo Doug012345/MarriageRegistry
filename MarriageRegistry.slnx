@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MarriageRegistry.Api/MarriageRegistry.Api.csproj" />
+    <Project Path="src/MarriageRegistry.Application/MarriageRegistry.Application.csproj" />
+    <Project Path="src/MarriageRegistry.Domain/MarriageRegistry.Domain.csproj" />
+    <Project Path="src/MarriageRegistry.Infrastructure/MarriageRegistry.Infrastructure.csproj" />
+  </Folder>
+</Solution>

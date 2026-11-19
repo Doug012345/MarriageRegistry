@@ -1,0 +1,11 @@
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Domain\bin\Debug\net10.0\MarriageRegistry.Domain.deps.json
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Domain\bin\Debug\net10.0\MarriageRegistry.Domain.dll
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Domain\bin\Debug\net10.0\MarriageRegistry.Domain.pdb
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Domain\obj\Debug\net10.0\MarriageRegistry.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Domain\obj\Debug\net10.0\MarriageRegistry.Domain.AssemblyInfoInputs.cache
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Domain\obj\Debug\net10.0\MarriageRegistry.Domain.AssemblyInfo.cs
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Domain\obj\Debug\net10.0\MarriageRegistry.Domain.csproj.CoreCompileInputs.cache
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Domain\obj\Debug\net10.0\MarriageRegistry.Domain.dll
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Domain\obj\Debug\net10.0\refint\MarriageRegistry.Domain.dll
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Domain\obj\Debug\net10.0\MarriageRegistry.Domain.pdb
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Domain\obj\Debug\net10.0\ref\MarriageRegistry.Domain.dll

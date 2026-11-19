@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MarriageRegistry.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MarriageRegistry.Application": "1.0.0",
+          "MarriageRegistry.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MarriageRegistry.Infrastructure.dll": {}
+        }
+      },
+      "MarriageRegistry.Application/1.0.0": {
+        "dependencies": {
+          "MarriageRegistry.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MarriageRegistry.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MarriageRegistry.Domain/1.0.0": {
+        "runtime": {
+          "MarriageRegistry.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarriageRegistry.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarriageRegistry.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarriageRegistry.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

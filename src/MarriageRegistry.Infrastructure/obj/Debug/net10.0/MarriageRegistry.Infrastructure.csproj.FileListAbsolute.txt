@@ -1,0 +1,17 @@
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\bin\Debug\net10.0\MarriageRegistry.Infrastructure.deps.json
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\bin\Debug\net10.0\MarriageRegistry.Infrastructure.dll
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\bin\Debug\net10.0\MarriageRegistry.Infrastructure.pdb
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\bin\Debug\net10.0\MarriageRegistry.Application.dll
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\bin\Debug\net10.0\MarriageRegistry.Domain.dll
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\bin\Debug\net10.0\MarriageRegistry.Domain.pdb
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\bin\Debug\net10.0\MarriageRegistry.Application.pdb
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\obj\Debug\net10.0\MarriageRegistry.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\obj\Debug\net10.0\MarriageRegistry.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\obj\Debug\net10.0\MarriageRegistry.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\obj\Debug\net10.0\MarriageRegistry.Infrastructure.AssemblyInfo.cs
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\obj\Debug\net10.0\MarriageRegistry.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\obj\Debug\net10.0\Marriage.4311633D.Up2Date
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\obj\Debug\net10.0\MarriageRegistry.Infrastructure.dll
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\obj\Debug\net10.0\refint\MarriageRegistry.Infrastructure.dll
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\obj\Debug\net10.0\MarriageRegistry.Infrastructure.pdb
+C:\Users\doudou.mbombo\Documents\MarriageRegistry\src\MarriageRegistry.Infrastructure\obj\Debug\net10.0\ref\MarriageRegistry.Infrastructure.dll
